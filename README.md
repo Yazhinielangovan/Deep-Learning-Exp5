@@ -30,9 +30,9 @@ Step-7 Plot the graph comparing the Actual and Predicted stock prices using matp
 
 **PROGRAM**
 
-**Name: Yazhini **
+**Name: Yazhini**
 
-**Register Number: 2305002028 **
+**Register Number: 2305002028**
 
 
 import numpy as np
